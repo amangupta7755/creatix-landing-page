@@ -45,8 +45,7 @@ A modern responsive landing page built using HTML, CSS, and JavaScript.
 
 ## ⚡ Author
 
-Your Name
-
+Aman Gupta
 ## 📌 Note
 
 This is a frontend-only project. No backend is connected yet.
